@@ -1,6 +1,7 @@
 This repository contains my implementations of classical search algorithms studied in an Artificial Intelligence course, along with a final project that demonstrates building and visualizing a search tree.
 
 📂 Repository Contents
+
 🔹 Java Implementations
 
 The following uninformed search algorithms are implemented in Java:
@@ -8,6 +9,7 @@ The following uninformed search algorithms are implemented in Java:
 DFS (Depth-First Search)
 BFS (Breadth-First Search)
 IDS (Iterative Deepening Search)
+DLS
 
 Each algorithm follows the standard AI search principles and demonstrates how states are explored and expanded.
 
