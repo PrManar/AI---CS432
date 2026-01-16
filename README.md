@@ -1,0 +1,1 @@
+This repository contains my implementations of classical search algorithms studied in an Artificial Intelligence course, along with a final project that demonstrates building and visualizing a search tree.
